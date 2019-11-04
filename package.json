@@ -1,0 +1,11 @@
+{
+  "name": "octa-backend",
+  "version": "1.0.0",
+  "description": "OctaWikiEngine",
+  "main": "src/app.ts",
+  "author": "DDark",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^8.4.1"
+  }
+}
